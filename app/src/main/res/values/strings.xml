@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">World Countries</string>
+    <string name="custom_title">Bordering %1$s</string>
+    <string name="native_name"><b>Native Name</b></string>
+    <string name="name"><b>Name</b></string>
+    <string name="menu_sort_name">Sort by name %1$c</string>
+    <string name="menu_sort_area">Sort by Area %1$c</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="no_bordering_countries">There\'s no information for bordering countries</string>
+</resources>
